@@ -1,0 +1,22 @@
+{
+    "conversions": [
+        {
+            "trophyItem": "TrophyBoar",
+            "biome": "Meadows",
+            "powderItem": "Stone",
+            "powderAmount": 1
+        },
+        {
+            "trophyItem": "TrophyDeer",
+            "biome": "Meadows",
+            "powderItem": "Stone",
+            "powderAmount": 2
+        },
+        {
+            "trophyItem": "TrophyNeck",
+            "biome": "Meadows",
+            "powderItem": "Stone",
+            "powderAmount": 3
+        }
+    ]
+}
