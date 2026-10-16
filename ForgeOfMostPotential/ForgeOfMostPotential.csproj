@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 <Project Sdk="Microsoft.NET.Sdk">
 
@@ -8,9 +8,9 @@
 
     <TargetFramework>net48</TargetFramework>
 
-    <RootNamespace>JotunnModStub</RootNamespace>
+    <RootNamespace>ForgeOfMostPotential</RootNamespace>
 
-    <AssemblyName>JotunnModStub</AssemblyName>
+    <AssemblyName>ForgeOfMostPotential</AssemblyName>
 
     <FileAlignment>512</FileAlignment>
 
@@ -57,12 +57,16 @@
 
 
   <ItemGroup>
+    <None Remove="Assets\recipes.json" />
     <None Remove="Assets\trophy_conversions.json" />
   </ItemGroup>
 
 
 
   <ItemGroup>
+    <Content Include="Assets\recipes.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Assets\trophy_conversions.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -110,11 +114,17 @@
 
 
 
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
+
+
   <PropertyGroup>
 
     <VALHEIM_MANAGED>$(VALHEIM_INSTALL)/valheim_Data/Managed</VALHEIM_MANAGED>
 
-    <UNITY_FOLDER>$(SolutionDir)JotunnModStubUnity</UNITY_FOLDER>
+    <UNITY_FOLDER>$(SolutionDir)ForgeOfMostPotentialUnity</UNITY_FOLDER>
 
     <BaseOutputPath></BaseOutputPath>
 
@@ -208,4 +218,15 @@
   <Exec Command="xcopy /Y /Q &quot;$(TargetDir)$(TargetName).*&quot; &quot;C:\Custom\Steam\steamapps\common\Valheim\BepInEx\scripts\&quot;" />
 </Target>
 
+<Target Name="CopyTrophyConversionsToScripts" AfterTargets="Build">
+  <MakeDir Directories="$(VALHEIM_INSTALL)\BepInEx\scripts\assets" />
+  <Copy SourceFiles="$(TargetDir)assets\trophy_conversions.json" DestinationFolder="$(VALHEIM_INSTALL)\BepInEx\scripts\assets" SkipUnchangedFiles="false" />
+</Target>
+
+<Target Name="CopyRecipesToScripts" AfterTargets="Build">
+  <MakeDir Directories="$(VALHEIM_INSTALL)\BepInEx\scripts\assets" />
+  <Copy SourceFiles="$(TargetDir)assets\recipes.json" DestinationFolder="$(VALHEIM_INSTALL)\BepInEx\scripts\assets" SkipUnchangedFiles="false" />
+</Target>
+
 </Project>
+

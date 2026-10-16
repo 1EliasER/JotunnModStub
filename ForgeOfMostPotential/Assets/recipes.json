@@ -1,0 +1,416 @@
+{
+    "recipes": [
+        {
+            "item": "Upgrader0Armor",
+            "amount": 1,
+            "craftingStation": "piece_workbench",
+            "requirements": [
+                {
+                    "item": "WoodlandAsh",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "Wood",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "DeerHide",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                }
+            ]
+        },
+        {
+            "item": "Upgrader0Weapon",
+            "amount": 1,
+            "craftingStation": "piece_workbench",
+            "requirements": [
+                {
+                    "item": "WoodlandAsh",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "Wood",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "Flint",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                }
+            ]
+        },
+        {
+            "item": "Upgrader1Armor",
+            "amount": 1,
+            "craftingStation": "piece_workbench",
+            "requirements": [
+                {
+                    "item": "Upgrader0Armor",
+                    "amount": 1,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "BronzeAsh",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "Bronze",
+                    "amount": 5,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "TrollHide",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                }
+            ]
+        },
+        {
+            "item": "Upgrader1Weapon",
+            "amount": 1,
+            "craftingStation": "piece_workbench",
+            "requirements": [
+                {
+                    "item": "Upgrader0Weapon",
+                    "amount": 1,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "BronzeAsh",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "Bronze",
+                    "amount": 5,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "BoneFragments",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                }
+            ]
+        },
+        {
+            "item": "Upgrader2Armor",
+            "amount": 1,
+            "craftingStation": "piece_workbench",
+            "requirements": [
+                {
+                    "item": "Upgrader1Armor",
+                    "amount": 1,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "IronAsh",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "Iron",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "Guck",
+                    "amount": 1,
+                    "amountPerLevel": 2
+                }
+            ]
+        },
+        {
+            "item": "Upgrader2Weapon",
+            "amount": 1,
+            "craftingStation": "piece_workbench",
+            "requirements": [
+                {
+                    "item": "Upgrader1Weapon",
+                    "amount": 1,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "IronAsh",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "Iron",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "Ooze",
+                    "amount": 5,
+                    "amountPerLevel": 2
+                }
+            ]
+        },
+        {
+            "item": "Upgrader3Armor",
+            "amount": 1,
+            "craftingStation": "piece_workbench",
+            "requirements": [
+                {
+                    "item": "Upgrader2Armor",
+                    "amount": 1,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "SilverAsh",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "Silver",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "WolfPelt",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                }
+            ]
+        },
+        {
+            "item": "Upgrader3Weapon",
+            "amount": 1,
+            "craftingStation": "piece_workbench",
+            "requirements": [
+                {
+                    "item": "Upgrader2Weapon",
+                    "amount": 1,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "SilverAsh",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "Silver",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "WolfFang",
+                    "amount": 5,
+                    "amountPerLevel": 2
+                }
+            ]
+        },
+        {
+            "item": "Upgrader4Armor",
+            "amount": 1,
+            "craftingStation": "piece_workbench",
+            "requirements": [
+                {
+                    "item": "Upgrader3Armor",
+                    "amount": 1,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "BlackMetalAsh",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "BlackMetal",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "LinenThread",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                }
+            ]
+        },
+        {
+            "item": "Upgrader4Weapon",
+            "amount": 1,
+            "craftingStation": "piece_workbench",
+            "requirements": [
+                {
+                    "item": "Upgrader3Weapon",
+                    "amount": 1,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "BlackMetalAsh",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "BlackMetal",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "Needle",
+                    "amount": 5,
+                    "amountPerLevel": 2
+                }
+            ]
+        },
+        {
+            "item": "Upgrader5Armor",
+            "amount": 1,
+            "craftingStation": "piece_workbench",
+            "requirements": [
+                {
+                    "item": "Upgrader4Armor",
+                    "amount": 1,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "EitrAsh",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "Eitr",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "Carapace",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                }
+            ]
+        },
+        {
+            "item": "Upgrader5Weapon",
+            "amount": 1,
+            "craftingStation": "piece_workbench",
+            "requirements": [
+                {
+                    "item": "Upgrader4Weapon",
+                    "amount": 1,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "EitrAsh",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "Eitr",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "Mandible",
+                    "amount": 1,
+                    "amountPerLevel": 2
+                }
+            ]
+        },
+        {
+            "item": "Upgrader6Armor",
+            "amount": 1,
+            "craftingStation": "piece_workbench",
+            "requirements": [
+                {
+                    "item": "Upgrader5Armor",
+                    "amount": 1,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "FlametalAsh",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "FlametalNew",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "SulfurStone",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                }
+            ]
+        },
+        {
+            "item": "Upgrader6Weapon",
+            "amount": 1,
+            "craftingStation": "piece_workbench",
+            "requirements": [
+                {
+                    "item": "Upgrader5Weapon",
+                    "amount": 1,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "FlametalAsh",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "FlametalNew",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "CharredBone",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                }
+            ]
+        },
+        {
+            "item": "Upgrader7Armor",
+            "amount": 1,
+            "craftingStation": "piece_workbench",
+            "requirements": [
+                {
+                    "item": "Upgrader6Armor",
+                    "amount": 1,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "BloodgoldAsh",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "Gold",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                }
+            ]
+        },
+        {
+            "item": "Upgrader7Weapon",
+            "amount": 1,
+            "craftingStation": "piece_workbench",
+            "requirements": [
+                {
+                    "item": "Upgrader6Weapon",
+                    "amount": 1,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "BloodgoldAsh",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                },
+                {
+                    "item": "Gold",
+                    "amount": 10,
+                    "amountPerLevel": 2
+                }
+            ]
+        }
+    ]
+}

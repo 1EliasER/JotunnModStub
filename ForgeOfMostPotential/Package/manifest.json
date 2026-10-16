@@ -1,0 +1,10 @@
+﻿{
+    "name": "ForgeOfMostPotential",
+    "description": "Upgrade your idols and unlock their potential in Valheim.",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2333",
+        "ValheimModding-Jotunn-2.26.1"
+    ]
+}

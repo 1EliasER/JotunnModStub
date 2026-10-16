@@ -15,13 +15,15 @@ public class TrophyConversionFile
 
         foreach (object item in conversions)
         {
+
+
             var entry = item as IDictionary<string, object>;
 
             var definition = new TrophyConversionDefinition(
-                (string)entry["trophyItem"],
+                (string)entry["consumedItem"],
                 (string)entry["biome"],
-                (string)entry["powderItem"],
-                Convert.ToInt32(entry["powderAmount"]));
+                (string)entry["providedItem"],
+                Convert.ToInt32(entry["resultAmount"]));
 
             Conversions.Add(definition);
         }

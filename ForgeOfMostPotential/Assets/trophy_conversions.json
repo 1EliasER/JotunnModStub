@@ -1,0 +1,436 @@
+{
+    "conversions": [
+        {
+            "consumedItem": "TrophyBoar",
+            "biome": "Meadows",
+            "providedItem": "WoodlandAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyDeer",
+            "biome": "Meadows",
+            "providedItem": "WoodlandAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyNeck",
+            "biome": "Meadows",
+            "providedItem": "WoodlandAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyEikthyr",
+            "biome": "Meadows",
+            "providedItem": "WoodlandAsh",
+            "resultAmount": 25
+        },
+        {
+            "consumedItem": "TrophyGreydwarf",
+            "biome": "BlackForest",
+            "providedItem": "BronzeAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyGreydwarfBrute",
+            "biome": "BlackForest",
+            "providedItem": "BronzeAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyGreydwarfShaman",
+            "biome": "BlackForest",
+            "providedItem": "BronzeAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophySkeleton",
+            "biome": "BlackForest",
+            "providedItem": "BronzeAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophySkeletonPoison",
+            "biome": "BlackForest",
+            "providedItem": "BronzeAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyGhost",
+            "biome": "BlackForest",
+            "providedItem": "BronzeAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyForestTroll",
+            "biome": "BlackForest",
+            "providedItem": "BronzeAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyFrostTroll",
+            "biome": "BlackForest",
+            "providedItem": "BronzeAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyBjorn",
+            "biome": "BlackForest",
+            "providedItem": "BronzeAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophySkeletonHildir",
+            "biome": "BlackForest",
+            "providedItem": "BronzeAsh",
+            "resultAmount": 25
+        },
+        {
+            "consumedItem": "TrophyTheElder",
+            "biome": "BlackForest",
+            "providedItem": "BronzeAsh",
+            "resultAmount": 25
+        },
+        {
+            "consumedItem": "TrophyBlob",
+            "biome": "Swamp",
+            "providedItem": "IronAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophySerpent",
+            "biome": "Swamp",
+            "providedItem": "IronAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyDraugr",
+            "biome": "Swamp",
+            "providedItem": "IronAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyWrithan",
+            "biome": "Swamp",
+            "providedItem": "IronAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyDraugrFem",
+            "biome": "Swamp",
+            "providedItem": "IronAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyDraugrElite",
+            "biome": "Swamp",
+            "providedItem": "IronAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyKvastur",
+            "biome": "Swamp",
+            "providedItem": "IronAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyLeech",
+            "biome": "Swamp",
+            "providedItem": "IronAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophySurtling",
+            "biome": "Swamp",
+            "providedItem": "IronAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyWraith",
+            "biome": "Swamp",
+            "providedItem": "IronAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyAbomination",
+            "biome": "Swamp",
+            "providedItem": "IronAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyBonemass",
+            "biome": "Swamp",
+            "providedItem": "IronAsh",
+            "resultAmount": 25
+        },
+        {
+            "consumedItem": "TrophyCultist_Hildir",
+            "biome": "Mountains",
+            "providedItem": "SilverAsh",
+            "resultAmount": 25
+        },
+        {
+            "consumedItem": "TrophyWolf",
+            "biome": "Mountains",
+            "providedItem": "SilverAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyHatchling",
+            "biome": "Mountains",
+            "providedItem": "SilverAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyUlv",
+            "biome": "Mountains",
+            "providedItem": "SilverAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyFenring",
+            "biome": "Mountains",
+            "providedItem": "SilverAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyCultist",
+            "biome": "Mountains",
+            "providedItem": "SilverAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophySGolem",
+            "biome": "Mountains",
+            "providedItem": "SilverAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyDragonQueen",
+            "biome": "Mountains",
+            "providedItem": "SilverAsh",
+            "resultAmount": 25
+        },
+        {
+            "consumedItem": "TrophyBjornUndead",
+            "biome": "Plains",
+            "providedItem": "BlackMetalAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyGoblinBruteBrosShaman",
+            "biome": "Plains",
+            "providedItem": "BlackMetalAsh",
+            "resultAmount": 25
+        },
+        {
+            "consumedItem": "TrophyGoblinBruteBrosBrute",
+            "biome": "Plains",
+            "providedItem": "BlackMetalAsh",
+            "resultAmount": 25
+        },
+        {
+            "consumedItem": "TrophyDeathsquito",
+            "biome": "Plains",
+            "providedItem": "BlackMetalAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyGoblin",
+            "biome": "Plains",
+            "providedItem": "BlackMetalAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyGoblinBrute",
+            "biome": "Plains",
+            "providedItem": "BlackMetalAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyGoblinShaman",
+            "biome": "Plains",
+            "providedItem": "BlackMetalAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyGrowth",
+            "biome": "Plains",
+            "providedItem": "BlackMetalAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyLox",
+            "biome": "Plains",
+            "providedItem": "BlackMetalAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyGoblinKing",
+            "biome": "Plains",
+            "providedItem": "BlackMetalAsh",
+            "resultAmount": 25
+        },
+        {
+            "consumedItem": "TrophyDvergr",
+            "biome": "Mistlands",
+            "providedItem": "EitrAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyHare",
+            "biome": "Mistlands",
+            "providedItem": "EitrAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyGjall",
+            "biome": "Mistlands",
+            "providedItem": "EitrAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophySeeker",
+            "biome": "Mistlands",
+            "providedItem": "EitrAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophySeekerBrute",
+            "biome": "Mistlands",
+            "providedItem": "EitrAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyTick",
+            "biome": "Mistlands",
+            "providedItem": "EitrAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophySeekerQueen",
+            "biome": "Mistlands",
+            "providedItem": "EitrAsh",
+            "resultAmount": 25
+        },
+        {
+            "consumedItem": "TrophyAsksvin",
+            "biome": "Ashlands",
+            "providedItem": "FlametalAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyBonemawSerpent",
+            "biome": "Ashlands",
+            "providedItem": "FlametalAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyFallenValkyrie",
+            "biome": "Ashlands",
+            "providedItem": "FlametalAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyCharredArcher",
+            "biome": "Ashlands",
+            "providedItem": "FlametalAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyMorgen",
+            "biome": "Ashlands",
+            "providedItem": "FlametalAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyVolture",
+            "biome": "Ashlands",
+            "providedItem": "FlametalAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyCharredMage",
+            "biome": "Ashlands",
+            "providedItem": "FlametalAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyCharredMelee",
+            "biome": "Ashlands",
+            "providedItem": "FlametalAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyBlob_Lava",
+            "biome": "Ashlands",
+            "providedItem": "FlametalAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyFader",
+            "biome": "Ashlands",
+            "providedItem": "FlametalAsh",
+            "resultAmount": 25
+        },
+        {
+            "consumedItem": "TrophyBarka",
+            "biome": "DeepNorth",
+            "providedItem": "BloodgoldAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyElaking",
+            "biome": "DeepNorth",
+            "providedItem": "BloodgoldAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyMole",
+            "biome": "DeepNorth",
+            "providedItem": "BloodgoldAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyBlob_Frost",
+            "biome": "DeepNorth",
+            "providedItem": "BloodgoldAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyJotunWitch",
+            "biome": "DeepNorth",
+            "providedItem": "BloodgoldAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyJotunWarrior",
+            "biome": "DeepNorth",
+            "providedItem": "BloodgoldAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyMoose",
+            "biome": "DeepNorth",
+            "providedItem": "BloodgoldAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyBlob_Morkhalla",
+            "biome": "DeepNorth",
+            "providedItem": "BloodgoldAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophySeal",
+            "biome": "DeepNorth",
+            "providedItem": "BloodgoldAsh",
+            "resultAmount": 5
+        },
+        {
+            "consumedItem": "TrophyDeerWhite",
+            "biome": "DeepNorth",
+            "providedItem": "BloodgoldAsh",
+            "resultAmount": 5
+        }
+    ]
+}
